@@ -1,1 +1,1 @@
-hello
+This is just a mock project for practicing Git , Github and tailwind
